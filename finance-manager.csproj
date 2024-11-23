@@ -8,12 +8,24 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Test-finance-manager\**" />
+    <Content Remove="Test-finance-manager\**" />
+    <EmbeddedResource Remove="Test-finance-manager\**" />
+    <None Remove="Test-finance-manager\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="coverlet.collector" Version="6.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="7.0.0" />
+    <PackageReference Include="xunit.extensibility.core" Version="2.9.2" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="Testes\" />
+    <Folder Include="Tests\" />
   </ItemGroup>
 
 </Project>

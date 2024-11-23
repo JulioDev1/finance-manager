@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "UNKXUZ2guEe/toLVvG0SscTh2LD6Wr2Fs7KLe2dmE9oC1pEJ2yJy2cZlj2SkVraFfh0I319S6THvRdC9Oyw/7g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\julio\\source\\repos\\finance-manager\\finance-manager\\Test-finance-manager\\Test-finance-manager\\Test-finance-manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julio\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\xunit\\2.5.3\\xunit.2.5.3.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\xunit.analyzers\\1.4.0\\xunit.analyzers.1.4.0.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\xunit.assert\\2.5.3\\xunit.assert.2.5.3.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\xunit.core\\2.5.3\\xunit.core.2.5.3.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\xunit.extensibility.core\\2.5.3\\xunit.extensibility.core.2.5.3.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\xunit.extensibility.execution\\2.5.3\\xunit.extensibility.execution.2.5.3.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.3\\xunit.runner.visualstudio.2.5.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'NETStandard.Library (>= 1.6.1)' para 'net8.0'. O PackageSourceMapping está habilitado, as seguintes fontes não foram consideradas: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "NETStandard.Library",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
