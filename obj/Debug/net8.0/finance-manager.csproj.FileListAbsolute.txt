@@ -146,3 +146,13 @@ C:\Users\julio\source\repos\finance-manager\finance-manager\bin\Debug\net8.0\Tes
 C:\Users\julio\source\repos\finance-manager\finance-manager\bin\Debug\net8.0\Tests\Teste.finance_Manager\obj\Teste.finance_Manager.csproj.nuget.dgspec.json
 C:\Users\julio\source\repos\finance-manager\finance-manager\bin\Debug\net8.0\xunit.assert.dll
 C:\Users\julio\source\repos\finance-manager\finance-manager\bin\Debug\net8.0\Tests\Teste.finance_Manager\obj\Debug\net8.0\Teste.finance_Manager.sourcelink.json
+C:\Users\julio\source\repos\finance-manager\finance-manager\bin\Debug\net8.0\Tests\Teste.finance_Manager\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\julio\source\repos\finance-manager\finance-manager\bin\Debug\net8.0\Tests\Teste.finance_Manager\bin\Debug\net8.0\appsettings.json
+C:\Users\julio\source\repos\finance-manager\finance-manager\bin\Debug\net8.0\Tests\Teste.finance_Manager\bin\Debug\net8.0\finance-manager.deps.json
+C:\Users\julio\source\repos\finance-manager\finance-manager\bin\Debug\net8.0\Tests\Teste.finance_Manager\bin\Debug\net8.0\finance-manager.runtimeconfig.json
+C:\Users\julio\source\repos\finance-manager\finance-manager\bin\Debug\net8.0\Tests\Teste.finance_Manager\bin\Debug\net8.0\finance-manager.staticwebassets.endpoints.json
+C:\Users\julio\source\repos\finance-manager\finance-manager\bin\Debug\net8.0\Tests\Teste.finance_Manager\bin\Debug\net8.0\Teste.finance_Manager.deps.json
+C:\Users\julio\source\repos\finance-manager\finance-manager\bin\Debug\net8.0\Tests\Teste.finance_Manager\bin\Debug\net8.0\Teste.finance_Manager.runtimeconfig.json
+C:\Users\julio\source\repos\finance-manager\finance-manager\bin\Debug\net8.0\Tests\Teste.finance_Manager\bin\Debug\net8.0\Tests\Teste.finance_Manager\obj\Debug\net8.0\Teste.finance_Manager.sourcelink.json
+C:\Users\julio\source\repos\finance-manager\finance-manager\bin\Debug\net8.0\Tests\Teste.finance_Manager\bin\Debug\net8.0\Tests\Teste.finance_Manager\obj\project.assets.json
+C:\Users\julio\source\repos\finance-manager\finance-manager\bin\Debug\net8.0\Tests\Teste.finance_Manager\bin\Debug\net8.0\Tests\Teste.finance_Manager\obj\Teste.finance_Manager.csproj.nuget.dgspec.json

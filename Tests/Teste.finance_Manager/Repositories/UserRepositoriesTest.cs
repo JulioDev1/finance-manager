@@ -39,10 +39,23 @@ namespace finance_manager.Tests.Teste.finance_Manager.Repositories
                     Password="testPassword"
                 }
             );
+
             var addedUser = await context.Users.FindAsync(user.Entity.Id);
-            
+
             Assert.NotNull(addedUser);
+
             Assert.Equal(addedUser.Name, user.Entity.Name);
+        }
+        [Fact]
+        public async Task CanFindUserByEmail()
+        {
+            var context = await GetInMemoryDbContext();
+
+            var findUserByEmail = await context.Users.FirstOrDefaultAsync(u => u.Email == "test@mail.com");
+            
+            Assert.NotNull(findUserByEmail);
+
+            Assert.True(findUserByEmail != null);
 
         }
     }
